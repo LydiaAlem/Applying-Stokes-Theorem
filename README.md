@@ -10,7 +10,6 @@ Languages & Software used:
 
 ---
 ## How to Access the Project on Overleaf
-
 1. Visit the Overleaf website: [Overleaf](https://www.overleaf.com).
 
 2. If you don't have an account, create one by clicking on "Sign Up" and following the registration process.
