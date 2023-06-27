@@ -8,11 +8,6 @@ As part of my multi-variable calculus course, I solved a problem and demonstrate
 <img src="https://github.com/LydiaAlem/Applying-Stokes-Theorem/assets/107647071/a55dcd53-66b1-4437-b64b-2fc759a02624" alt="overleaf Logo" width="155" height="50">
 <img src="https://github.com/LydiaAlem/Applying-Stokes-Theorem/assets/107647071/7586c7d7-2255-4bb6-9b6e-4cb0573b4c23" alt="LaTeX Logo" width="60" height="60">
 
-## Description
-
-The Applying Stokes project focuses on applying Stokes' theorem to solve various mathematical problems. It explores the concepts of vector fields, line integrals, surface integrals, and their applications in different scenarios!
-
-
 ## Getting Started
 
 1. Go to Overleaf and log in to your account.
