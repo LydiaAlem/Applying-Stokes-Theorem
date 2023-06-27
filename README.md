@@ -15,7 +15,9 @@ As part of my multi-variable calculus course, I solved a problem and demonstrate
 3. In your Overleaf project, navigate to the left sidebar and click on the "Git" button.
 4. In the Git menu, click on the "Pull from GitHub" option.
 5. Copy the following command to clone the repository:
+   
 `git clone https://github.com/LydiaAlem/Applying-Stokes-Theorem.git`
+
 6. Open your preferred terminal or command prompt and navigate to the desired directory where you want to save the clone.
 7. Paste the copied command into the terminal and press Enter to execute it. This will clone the Applying Stokes repository to your local machine.
 8. Once the cloning process is complete, go back to Overleaf and click on "Upload Project" in the left sidebar.
