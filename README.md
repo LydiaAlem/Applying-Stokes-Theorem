@@ -12,19 +12,22 @@ As part of my multi-variable calculus course, I solved a problem and demonstrate
 
 The Applying Stokes project focuses on applying Stokes' theorem to solve various mathematical problems. It explores the concepts of vector fields, line integrals, surface integrals, and their applications in different scenarios!
 
-## Repository Contents
-
-The repository is organized into the following directories and files:
-
-- `/src`: Contains the source code files for the project.
-- `/data`: Contains the data files used in the project.
-- `/docs`: Contains project documentation, including guides and tutorials.
 
 ## Getting Started
 
-To get started with the Applying Stokes project, follow these steps:
+1. Go to Overleaf and log in to your account.
+2. Create a new blank project or open an existing project where you want to pull the Applying Stokes repository.
+3. In your Overleaf project, navigate to the left sidebar and click on the "Git" button.
+4. In the Git menu, click on the "Pull from GitHub" option.
+5. Copy the following command to clone the repository:
+`git clone https://github.com/LydiaAlem/Applying-Stokes-Theorem.git`
+6. Open your preferred terminal or command prompt and navigate to the desired directory where you want to save the clone.
+7. Paste the copied command into the terminal and press Enter to execute it. This will clone the Applying Stokes repository to your local machine.
+8. Once the cloning process is complete, go back to Overleaf and click on "Upload Project" in the left sidebar.
+9. Choose the option to upload a ZIP file.
+10. Locate the cloned folder on your local machine and compress it into a ZIP file.
+11. Upload the ZIP file to Overleaf.
+12. Overleaf will extract the contents of the ZIP file and create a project with the Applying Stokes repository.
 
-1. Clone the repository to your local machine:
-
-
-
+---
+Feel free to make any changes after pulling!
