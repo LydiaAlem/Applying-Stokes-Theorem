@@ -5,7 +5,7 @@ As part of my multi-variable calculus course, I solved a problem and demonstrate
 ## Languages & Software used:
 
 <img src="https://github.com/LydiaAlem/Applying-Stokes-Theorem/assets/107647071/a55dcd53-66b1-4437-b64b-2fc759a02624" alt="overleaf Logo" width="155" height="50">
-<img src="https://github.com/LydiaAlem/Applying-Stokes-Theorem/assets/107647071/cc909498-8107-4fb7-8edc-0cd1e123b120" alt="LaTeX Logo" width="50" height="50">
+<img src="https://github.com/LydiaAlem/Applying-Stokes-Theorem/assets/107647071/cc909498-8107-4fb7-8edc-0cd1e123b120" alt="LaTeX Logo" width="60" height="60">
 
 
 ## Getting Started
